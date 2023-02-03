@@ -1,2 +1,2 @@
 # OpenFOAM_Resistance
-Foldar connected to VirtualBox
+Folder connected to VirtualBox
